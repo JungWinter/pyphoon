@@ -13,7 +13,7 @@ LITS = {
     'fr': [ "Nouvelle lune","Premier quartier", "Pleine lune",  "Dernier quartier"  ],
     'hr': [ "Mlađak",       "Prva četvrt",      "Uštap",        "Zadnja četvrt"     ],
     'it': [ "Luna nuova",   "Primo quarto",     "Luna piena",   "Ultimo quarto"     ],
-    'ja': [ "新月",         "上弦",             "満月",         "下弦"              ],
+    'ja': [ "新月",         "上弦",             "満月",         "下弦"               ],
     'nl': [ "Nieuwe maan",  "Eerste kwartier",  "Volle maan",   "Laatste kwartier"  ],
     'ru': [ "Новолуние",    "Первая четверть",  "Полнолуние",   "Последняя четверть"],
     'pl': [ "Nów",          "Pierwsza kwadra",  "Pełnia",       "Ostatnia kwadra"   ],
@@ -22,5 +22,5 @@ LITS = {
     'sk': [ "Nov",          "Prvá štvrť",       "Úplnok",       "Posledná štvrť"    ],
     'sr': [ "Mlađak",       "Prva četvrt",      "Uštap",        "Poslednja četvrt"  ],
     'uk': [ "Молодик",      "Перша чверть",     "Повня",        "Остання чверть"    ],
-    'ko': [ "초승달",      "상현달",     "보름달",        "하현달"    ],
+    'ko': [ "초승달",       "상현달",            "보름달",        "하현달"            ],
 }
